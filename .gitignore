@@ -13,6 +13,7 @@ pacientes/migrations/*
 procesos/migrations/*
 recaudacion/migrations/*
 transversal/migrations/*
+manage.py
 *.pyc
 *.log
 *.csv
