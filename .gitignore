@@ -1,4 +1,5 @@
 config/config.py
+mysite/settings.py
 media/*
 static/.sass-cache/*
 /.sass-cache/*
@@ -13,7 +14,6 @@ pacientes/migrations/*
 procesos/migrations/*
 recaudacion/migrations/*
 transversal/migrations/*
-/manage.py
 *.pyc
 *.log
 *.csv
